@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       code:
-        description: Paste Powershell Code
+        description :https://remotedesktop.google.com/_/oauthredirect
         required: true
 
 jobs:
